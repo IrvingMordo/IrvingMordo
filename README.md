@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Irving Morales, un apasionado estudiante de desarrollo de software con un fuerte interés en las últimas tendencias tecnológicas. Desde que comencé mi viaje en el mundo de la programación, he sentido una gran curiosidad por las innovaciones y avances en el campo del desarrollo de software.<br><br>Me encanta explorar y profundizar en nuevas tecnologías, y cuando algo despierta mi interés, no descanso hasta entenderlo completamente. Esta mentalidad me ha llevado a aprender y aplicar diversas herramientas y lenguajes de programación, siempre buscando cómo mejorar y optimizar mis proyectos.
+Hello! I'm Irving Morales, a passionate software development student with a strong interest in the latest technological trends. Since I began my journey in the world of programming, I’ve felt a deep curiosity for innovations and advancements in the field of software development.<br> <br>I love exploring and diving into new technologies, and when something sparks my interest, I don't rest until I fully understand it. This mindset has led me to learn and apply various tools and programming languages, always seeking ways to improve and optimize my projects.
 
 
 ## 🌐 Socials:
