@@ -35,12 +35,6 @@ I thrive on exploring new tools and frameworks, and when something captures my i
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/username=IrvingMordo&theme=gruvbox&hide_border=true&layout=compact&langs_count=6&hide=html&custom_title=Most%20Used%20Languages)
-
----
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=IrvingMordo&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
