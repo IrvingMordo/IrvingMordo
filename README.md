@@ -35,6 +35,19 @@ I thrive on exploring new tools and frameworks, and when something captures my i
 
 ---
 
+### 📊 GitHub Activity & Language Insights
+
+<!-- Perfil personal con estilo `radical`, íconos, commits privados y título personalizado -->
+![](https://github-readme-stats.vercel.app/api?username=IrvingMordo&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Irving%20Morales%E2%80%99%20GitHub%20Stats)
+
+<!-- Racha de contribuciones con tema `tokyonight`, borde oculto y colores vibrantes -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=IrvingMordo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring_color=ff6ec7&fire_color=f0932b)
+
+<!-- Lenguajes más usados, layout compacto, y título personalizado -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IrvingMordo&theme=gruvbox&hide_border=true&layout=compact&langs_count=6&hide=html,css&custom_title=Most%20Used%20Languages)
+
+
+---
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=IrvingMordo&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
