@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hello! I'm **Irving Morales**, a passionate and dedicated software development student focused on creating impactful digital experiences. I’m always curious about how modern systems function and constantly strive to deepen my knowledge of cutting-edge frameworks, tools, and best practices.
+Hello! I'm **Irving Domínguez**, a passionate and dedicated software development student focused on creating impactful digital experiences. I’m always curious about how modern systems function and constantly strive to deepen my knowledge of cutting-edge frameworks, tools, and best practices.
 
 Throughout my journey in software engineering, I've developed a strong command of both frontend and UI design, with particular attention to writing clean, scalable, and maintainable code. Whether it's building complex interfaces with Angular or styling components with SCSS, I enjoy every part of the process that turns ideas into real, user-friendly applications.
 
